@@ -20,4 +20,4 @@ jobs:
         with:
           context: foosball/
           push: true
-          tags: sfinke1/foosball:${{github.run_number}}
+          tags: sfinke1/foosball:latest
